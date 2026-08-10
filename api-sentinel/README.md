@@ -3,7 +3,7 @@
 A simple full-stack app to monitor whether your APIs are online, how fast
 they respond, and to alert you by email when one keeps failing.
 
-## The complete flow (memorize this for interviews)
+## The complete flow
 
 ```
 User -> Register/Login (JWT) -> Dashboard -> Add API (manual or paste docs -> LLM extracts fields)
